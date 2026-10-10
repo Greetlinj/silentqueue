@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422573084495",
+    "project_id": "silentqueue-ac871",
+    "storage_bucket": "silentqueue-ac871.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422573084495:android:615c56dfdb4bccb81dff3a",
+        "android_client_info": {
+          "package_name": "com.example.silentqueue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422573084495-stjaeucktgc19ejo1cm2cn6qtoe3fgjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.silentqueue",
+            "certificate_hash": "5c36dc155f4910946cdd63bbe8a1f235d37bf7c9"
+          }
+        },
+        {
+          "client_id": "422573084495-ebj4o7tpo5t19pg2h62u8n1bp0ccqmc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsdYkaBC_8rGkrX0KFPnzZ-eXqz2lU96M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422573084495-ebj4o7tpo5t19pg2h62u8n1bp0ccqmc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
